@@ -1,0 +1,603 @@
+                                                               GYTSEMRO2007 Qatar All Schools                                                               1
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+       Q1         CR1       Have you ever tried or experimented with cigarette smoking, even one or two puffs?                                           
+                            .   Missing                                                                                                 66          .    
+                            1   Yes                                                                                                    301        22.2%  
+                            2   No                                                                                                   1,067        77.8%  
+                                                                                                                                                         
+       Q2         CR2       How old were you when you first tried a cigarette?                                                                           
+                            .   Missing                                                                                                 48          .    
+                            1   I have never smoked cigarettes                                                                       1,169        84.5%  
+                            2   7 years old or younger                                                                                  42         2.8%  
+                            3   8 or 9 years old                                                                                        22         1.6%  
+                            4   10 or 11 years old                                                                                      48         3.5%  
+                            5   12 or 13 years old                                                                                      52         3.6%  
+                            6   14 or 15 years old                                                                                      45         3.4%  
+                            7   16 years old or older                                                                                    8         0.5%  
+                                                                                                                                                         
+       Q3         CR3       During the past 30 days (one month), on how many days did you smoke cigarettes?                                              
+                            .   Missing                                                                                                 75          .    
+                            1   0 days                                                                                               1,240        91.7%  
+                            2   1 or 2 days                                                                                             46         3.2%  
+                            3   3 to 5 days                                                                                             17         1.2%  
+                            4   6 to 9 days                                                                                             19         1.4%  
+                            5   10 to 19 days                                                                                           13         0.9%  
+                            6   20 to 29 days                                                                                            6         0.4%  
+                            7   All 30 days                                                                                             18         1.2%  
+                                                                                                                                                         
+       Q4         CR4       During the past 30 days (one month), on the days you smoked, how many cigarettes did you usually                             
+                            smoke?                                                                                                                       
+                            .   Missing                                                                                                 43          .    
+                            1   I did not smoke cigarettes during the past 30 days (one month)                                       1,259        90.9%  
+                            2   Less than 1 cigarette per day                                                                           28         2.0%  
+                            3   1 cigarette per day                                                                                     32         2.1%  
+                            4   2 to 5 cigarettes per day                                                                               50         3.5%  
+                            5   6 to 10 cigarettes per day                                                                              11         0.8%  
+                            6   11 to 20 cigarettes per day                                                                              3         0.2%  
+                            7   More than 20 cigarettes per day                                                                          8         0.5%  
+                                                                                                                                                         
+       Q5         CR5       During the past 30 days (one month), how did you usually get your own cigarettes?  (Select only                              
+                            one response)                                                                                                                
+                            .   Missing                                                                                                 17          .    
+                            1   I did not smoke cigarettes during the past 30 days (one month)                                       1,261        89.2%  
+                            2   I bought them in a store, shop or from a street vendor                                                  59         4.0%  
+                            3   I bought them from a vending machine                                                                    16         1.0%  
+                            4   I gave someone else money to buy them for me                                                            20         1.4%  
+                            5   I borrowed them from someone else                                                                       16         1.2%  
+                            6   I stole them                                                                                            17         1.2%  
+                            7   An older person gave them to me                                                                          9         0.7%  
+                            8   I got them some other way                                                                               19         1.2%  
+                                                                                                                                                         
+       Q6         QAR6      During the past 30 days (one month), what brand of cigarettes did you usually smoke? (SELECT ONLY                            
+                            ONE RESPONSE)                                                                                                                
+                            .   Missing                                                                                                 44          .    
+                            1   I did not smoke cigarettes during the past 30 days                                                   1,225        88.3%  
+                            2   No usual brand                                                                                          46         3.2%  
+                            3   Marlboro                                                                                                92         6.6%  
+                            4   Other                                                                                                   27         2.0%  
+                                                               GYTSEMRO2007 Qatar All Schools                                                               2
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                                                                                                                                                         
+      Q7         CR7        During the past 30 days (one month), did anyone ever refuse to sell you cigarettes because of your                           
+                            age?                                                                                                                         
+                            .   Missing                                                                                                 16          .    
+                            1   I did not try to buy cigarettes during the past 30 days (one month)                                  1,266        89.7%  
+                            2   Yes, someone refused to sell me cigarettes because of my age                                            67         4.5%  
+                            3   No, my age did not keep me from buying cigarettes                                                       85         5.7%  
+                                                                                                                                                         
+      Q8         CR8        During the past 30 days (one month), did you use any form of smoked tobacco products other than                              
+                            cigarettes (e.g. cigars, water pipes cigarillos, little cigars, pipes)?                                                      
+                            .   Missing                                                                                                 46          .    
+                            1   Yes                                                                                                    214        15.1%  
+                            2   No                                                                                                   1,174        84.9%  
+                                                                                                                                                         
+      Q9         CR9        During the past 30 days (one month), did you use any form of smokeless tobacco products (e.g.                                
+                            chewing tobacco, snuff, dip)?                                                                                                
+                            .   Missing                                                                                                 62          .    
+                            1   Yes                                                                                                    123         8.8%  
+                            2   No                                                                                                   1,249        91.2%  
+                                                                                                                                                         
+      Q10        QAR10      Where do you usually smoke? (SELECT ONLY ONE RESPONSE)                                                                       
+                            .   Missing                                                                                                  8          .    
+                            1   I have never smoked cigarettes                                                                       1,216        85.5%  
+                            2   At home                                                                                                 64         4.4%  
+                            3   At school                                                                                               13         0.9%  
+                            4   At friends' houses                                                                                      19         1.5%  
+                            5   At social events                                                                                         8         0.6%  
+                            6   In public spaces (e.g. parks, shopping centres, street corners)                                         66         4.4%  
+                            7   other                                                                                                   40         2.8%  
+                                                                                                                                                         
+      Q11        CR11       Do you ever have a cigarette or feel like having a cigarette first thing in the morning?                                     
+                            .   Missing                                                                                                 13          .    
+                            1   I have never smoked cigarettes                                                                       1,199        84.7%  
+                            2   I no longer smoke cigarettes                                                                           140         9.5%  
+                            3   No, I don't have or feel like having a cigarette first thing in the morning                             45         3.4%  
+                            4   Yes, I sometimes have or feel like having a cigarette first thing in the morning                        35         2.3%  
+                            5   Yes, I always have or feel like having a cigarette first thing in the morning                            2         0.1%  
+                                                                                                                                                         
+      Q12        CR12       Do your parents smoke?                                                                                                       
+                            .   Missing                                                                                                 24          .    
+                            1   None                                                                                                 1,003        70.5%  
+                            2   Both                                                                                                    37         2.6%  
+                            3   Father only                                                                                            335        24.3%  
+                            4   Mother only                                                                                             16         1.2%  
+                            5   I don't know                                                                                            19         1.4%  
+                                                                                                                                                         
+      Q13        CR13       If one of your best friends offered you a cigarette, would you smoke it?                                                     
+                            .   Missing                                                                                                  6          .    
+                            1   Definitely not                                                                                       1,131        79.1%  
+                            2   Probably not                                                                                           133         9.3%  
+                            3   Probably yes                                                                                           110         8.0%  
+                            4   Definitely yes                                                                                          54         3.6%  
+                                                                                                                                                         
+      Q14        CR14       Has anyone in your family discussed the harmful effects of smoking with you?                                                 
+                            .   Missing                                                                                                 36          .    
+                                                               GYTSEMRO2007 Qatar All Schools                                                               3
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                            1   Yes                                                                                                    957        69.2%  
+                            2   No                                                                                                     441        30.8%  
+                                                                                                                                                         
+      Q15         CR15      At any time during the next 12 months, do you think you will smoke a cigarette?                                              
+                            .   Missing                                                                                                 26          .    
+                            1   Definitely not                                                                                       1,130        80.6%  
+                            2   Probably not                                                                                           161        11.1%  
+                            3   Probably yes                                                                                            80         5.9%  
+                            4   Definitely yes                                                                                          37         2.4%  
+                                                                                                                                                         
+      Q16         CR16      Do you think you will be smoking cigarettes 5 years from now?                                                                
+                            .   Missing                                                                                                 12          .    
+                            1   Definitely not                                                                                       1,097        77.4%  
+                            2   Probably not                                                                                           186        13.1%  
+                            3   Probably yes                                                                                           103         7.1%  
+                            4   Definitely yes                                                                                          36         2.4%  
+                                                                                                                                                         
+      Q17         CR17      Once someone has started smoking, do you think it would be difficult to quit?                                                
+                            .   Missing                                                                                                 19          .    
+                            1   Definitely not                                                                                         382        25.9%  
+                            2   Probably not                                                                                           299        21.2%  
+                            3   Probably yes                                                                                           471        33.8%  
+                            4   Definitely yes                                                                                         263        19.0%  
+                                                                                                                                                         
+      Q18         CR18      Do you think boys who smoke cigarettes have more or less friends?                                                            
+                            .   Missing                                                                                                 63          .    
+                            1   More friends                                                                                           440        31.3%  
+                            2   Less friends                                                                                           510        36.7%  
+                            3   No difference from non-smokers                                                                         421        32.0%  
+                                                                                                                                                         
+      Q19         CR19      Do you think girls who smoke cigarettes have more or less friends?                                                           
+                            .   Missing                                                                                                 41          .    
+                            1   More friends                                                                                           322        22.8%  
+                            2   Less friends                                                                                           718        52.0%  
+                            3   No difference from non-smokers                                                                         353        25.1%  
+                                                                                                                                                         
+      Q20         CR20      Does smoking cigarettes help people feel more or less comfortable at celebrations, parties, or in                            
+                            social gatherings?                                                                                                           
+                            .   Missing                                                                                                 50          .    
+                            1   More comfortable                                                                                       262        19.0%  
+                            2   Less comfortable                                                                                       918        66.3%  
+                            3   No difference from non-smokers                                                                         204        14.7%  
+                                                                                                                                                         
+      Q21         CR21      Do you think smoking cigarettes makes boys look more or less attractive?                                                     
+                            .   Missing                                                                                                 57          .    
+                            1   More attractive                                                                                        320        22.8%  
+                            2   Less attractive                                                                                        745        54.6%  
+                            3   No difference from non-smokers                                                                         312        22.7%  
+                                                                                                                                                         
+      Q22         CR22      Do you think smoking cigarettes makes girls look more or less attractive?                                                    
+                            .   Missing                                                                                                 46          .    
+                            1   More attractive                                                                                        265        18.4%  
+                            2   Less attractive                                                                                        850        62.4%  
+                            3   No difference from non-smokers                                                                         273        19.1%  
+                                                                                                                                                         
+                                                               GYTSEMRO2007 Qatar All Schools                                                               4
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+      Q23        CR23       Do you think that smoking cigarettes makes you gain or lose weight?                                                          
+                            .   Missing                                                                                                 80          .    
+                            1   Gain weight                                                                                            221        15.6%  
+                            2   Lose weight                                                                                            681        51.4%  
+                            3   No difference                                                                                          452        33.1%  
+                                                                                                                                                         
+      Q24        CR24       Do you think cigarette smoking is harmful to your health?                                                                    
+                            .   Missing                                                                                                 48          .    
+                            1   Definitely not                                                                                         161        10.7%  
+                            2   Probably not                                                                                            99         7.0%  
+                            3   Probably yes                                                                                            87         5.9%  
+                            4   Definitely yes                                                                                       1,039        76.3%  
+                                                                                                                                                         
+      Q25        CR25       Do any of your closest friends smoke cigarettes?                                                                             
+                            .   Missing                                                                                                 25          .    
+                            1   None of them                                                                                           975        70.8%  
+                            2   Some of them                                                                                           281        18.8%  
+                            3   Most of them                                                                                           109         7.5%  
+                            4   All of them                                                                                             44         2.9%  
+                                                                                                                                                         
+      Q26        QAR26      When you see a man smoking, what do you think of him? (Select only one response)                                             
+                            .   Missing                                                                                                 42          .    
+                            1   Lacks confidence                                                                                       323        22.9%  
+                            2   Stupid                                                                                                 203        14.7%  
+                            3   Loser                                                                                                  314        22.7%  
+                            4   Successful                                                                                              36         2.7%  
+                            5   Intelligent                                                                                             14         1.0%  
+                            6   Sophisticated                                                                                           29         2.3%  
+                            7   Not obeying religion                                                                                   473        33.8%  
+                                                                                                                                                         
+      Q27        QAR27      When you see a woman smoking, what do you think of her? (Select only one response)                                           
+                            .   Missing                                                                                                 48          .    
+                            1   Lacks confidence                                                                                       320        22.7%  
+                            2   Stupid                                                                                                 205        15.2%  
+                            3   Loser                                                                                                  298        21.1%  
+                            4   Successful                                                                                              55         3.9%  
+                            5   Intelligent                                                                                             11         0.8%  
+                            6   Sophisticated                                                                                           24         2.0%  
+                            7   Not obeying religion                                                                                   473        34.3%  
+                                                                                                                                                         
+      Q28        CR28       Do you think it is safe to smoke for only a year or two as long as you quit after that?                                      
+                            .   Missing                                                                                                 24          .    
+                            1   Definitely not                                                                                         569        40.3%  
+                            2   Probably not                                                                                           241        17.1%  
+                            3   Probably yes                                                                                           257        18.7%  
+                            4   Definitely yes                                                                                         343        24.0%  
+                                                                                                                                                         
+      Q29        CR29       Do you think the smoke from other people's cigarettes is harmful to you?                                                     
+                            .   Missing                                                                                                 23          .    
+                            1   Definitely not                                                                                         217        14.9%  
+                            2   Probably not                                                                                           134         9.2%  
+                            3   Probably yes                                                                                           222        15.6%  
+                            4   Definitely yes                                                                                         838        60.3%  
+                                                                                                                                                         
+      Q30        CR30       During the past 7 days, on how many days have people smoked in your home, in your presence?                                  
+                                                               GYTSEMRO2007 Qatar All Schools                                                               5
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                            .   Missing                                                                                                 27          .    
+                            1   0                                                                                                      889        62.7%  
+                            2   1 to 2                                                                                                 228        16.4%  
+                            3   3 to 4                                                                                                  93         6.6%  
+                            4   5 to 6                                                                                                  57         4.0%  
+                            5   7                                                                                                      140        10.3%  
+                                                                                                                                                         
+      Q31         CR31      During the past 7 days, on how many days have people smoked in your presence, in places other than                           
+                            in your home?                                                                                                                
+                            .   Missing                                                                                                 21          .    
+                            1   0                                                                                                      751        53.5%  
+                            2   1 to 2                                                                                                 269        19.5%  
+                            3   3 to 4                                                                                                 132         9.0%  
+                            4   5 to 6                                                                                                  71         4.9%  
+                            5   7                                                                                                      190        13.2%  
+                                                                                                                                                         
+      Q32         CR32      Are you in favor of banning smoking in public places (such as in restaurants, in buses,                                      
+                            streetcars, and trains, in schools, on playgrounds, in gyms and sports arenas, in discos)?                                   
+                            .   Missing                                                                                                 81          .    
+                            1   Yes                                                                                                  1,035        77.4%  
+                            2   No                                                                                                     318        22.6%  
+                                                                                                                                                         
+      Q33         CR33      Do you want to stop smoking now?                                                                                             
+                            .   Missing                                                                                                 27          .    
+                            1   I have never smoked cigarettes                                                                       1,120        79.8%  
+                            2   I do not smoke now                                                                                     124         9.0%  
+                            3   Yes                                                                                                     97         6.7%  
+                            4   No                                                                                                      66         4.5%  
+                                                                                                                                                         
+      Q34         CR34      During the past year, have you ever tried to stop smoking cigarettes?                                                        
+                            .   Missing                                                                                                  8          .    
+                            1   I have never smoked cigarettes                                                                       1,201        84.5%  
+                            2   I did not smoke during the past year                                                                    97         6.7%  
+                            3   Yes                                                                                                     71         4.7%  
+                            4   No                                                                                                      57         4.1%  
+                                                                                                                                                         
+      Q35         CR35      How long ago did you stop smoking?                                                                                           
+                            .   Missing                                                                                                 13          .    
+                            1   I have never smoked cigarettes                                                                       1,179        83.1%  
+                            2   I have not stopped smoking                                                                             110         7.8%  
+                            3   1-3 months                                                                                              64         4.5%  
+                            4   4-11 months                                                                                             18         1.2%  
+                            5   One year                                                                                                19         1.4%  
+                            6   2 years                                                                                                 14         0.9%  
+                            7   3 years or longer                                                                                       17         1.2%  
+                                                                                                                                                         
+      Q36         CR36      What was the main reason you decided to stop smoking? (Select one only)                                                      
+                            .   Missing                                                                                                 29          .    
+                            1   I have never smoked cigarettes                                                                       1,145        81.9%  
+                            2   I have not stopped smoking                                                                              76         5.2%  
+                            3   To improve my health                                                                                   109         7.5%  
+                            4   To save money                                                                                           19         1.4%  
+                            5   Because my family does not like it                                                                      21         1.5%  
+                            6   Because my friends don't like it                                                                         5         0.4%  
+                            7   Other                                                                                                   30         2.0%  
+                                                               GYTSEMRO2007 Qatar All Schools                                                               6
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                                                                                                                                                         
+      Q37         CR37      Do you think you would be able to stop smoking if you wanted to?                                                             
+                            .   Missing                                                                                                 13          .    
+                            1   I have never smoked cigarettes                                                                       1,160        82.1%  
+                            2   I have already stopped smoking cigarettes                                                              106         7.4%  
+                            3   Yes                                                                                                    107         7.4%  
+                            4   No                                                                                                      48         3.1%  
+                                                                                                                                                         
+      Q38         CR38      Have you ever received help or advice to help you stop smoking? (Select only one response)                                   
+                            .   Missing                                                                                                  9          .    
+                            1   I have never smoked cigarettes                                                                       1,111        78.6%  
+                            2   Yes, from a program or professional                                                                     99         7.0%  
+                            3   Yes, from a friend                                                                                      75         5.0%  
+                            4   Yes, from a family member                                                                               57         3.7%  
+                            5   Yes, from both programs or professionals and from friends or family members                             39         2.6%  
+                            6   No                                                                                                      44         3.1%  
+                                                                                                                                                         
+      Q39         CR39      During the past 30 days (one month), how many anti-smoking media messages (e.g. television, radio,                           
+                            billboards, posters, newspapers, magazines, movies, drama) have you seen or heard?                                           
+                            .   Missing                                                                                                 73          .    
+                            1   A lot                                                                                                  488        35.6%  
+                            2   A few                                                                                                  474        34.6%  
+                            3   None                                                                                                   399        29.8%  
+                                                                                                                                                         
+      Q40         CR40      When you go to sports events, fairs, concerts, community events, or social gatherings, how often                             
+                            do you see anti-smoking messages?                                                                                            
+                            .   Missing                                                                                                 17          .    
+                            1   I never go to sports events, fairs, concerts, community events, or social gatherings                   329        23.3%  
+                            2   A lot                                                                                                  482        33.5%  
+                            3   Sometimes                                                                                              479        34.5%  
+                            4   Never                                                                                                  127         8.7%  
+                                                                                                                                                         
+      Q41         CR41      When you watch TV, videos, or movies, how often do you see actors smoking?                                                   
+                            .   Missing                                                                                                 15          .    
+                            1   I never watch TV, videos, or movies                                                                    142         9.4%  
+                            2   A lot                                                                                                  851        60.9%  
+                            3   Sometimes                                                                                              333        23.7%  
+                            4   Never                                                                                                   93         6.0%  
+                                                                                                                                                         
+      Q42         CR42      Do you have something (t-shirt, pen, backpack, etc.) with a cigarette brand logo on it?                                      
+                            .   Missing                                                                                                139          .    
+                            1   Yes                                                                                                    253        19.0%  
+                            2   No                                                                                                   1,042        81.0%  
+                                                                                                                                                         
+      Q43         CR43      During the past 30 days (one month), when you watched sports events or other programs on TV how                              
+                            often did you see cigarette brand names?                                                                                     
+                            .   Missing                                                                                                 23          .    
+                            1   I never watch TV                                                                                       179        11.5%  
+                            2   A lot                                                                                                  320        22.9%  
+                            3   Sometimes                                                                                              533        38.3%  
+                            4   Never                                                                                                  379        27.3%  
+                                                                                                                                                         
+      Q44         CR44      During the past 30 days (one month), how many advertisements for cigarettes have you seen on                                 
+                            billboards?                                                                                                                  
+                            .   Missing                                                                                                 73          .    
+                                                               GYTSEMRO2007 Qatar All Schools                                                               7
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                            1   A lot                                                                                                  396        28.9%  
+                            2   A few                                                                                                  567        42.2%  
+                            3   None                                                                                                   398        28.9%  
+                                                                                                                                                         
+      Q45         CR45      During the past 30 days (one month), how many advertisements or promotions for cigarettes have you                           
+                            seen in newspapers or magazines?                                                                                             
+                            .   Missing                                                                                                105          .    
+                            1   A lot                                                                                                  391        29.5%  
+                            2   A few                                                                                                  540        40.8%  
+                            3   None                                                                                                   398        29.7%  
+                                                                                                                                                         
+      Q46         CR46      When you go to sports events, fairs, concerts, or community events, how often do you see                                     
+                            advertisements for cigarettes?                                                                                               
+                            .   Missing                                                                                                 19          .    
+                            1   I never attend sports events, fairs, concerts, or community events                                     364        26.0%  
+                            2   A lot                                                                                                  315        22.0%  
+                            3   Sometimes                                                                                              420        29.8%  
+                            4   Never                                                                                                  316        22.1%  
+                                                                                                                                                         
+      Q47         CR47      Has a (cigarette representative) ever offered you a free cigarette?                                                          
+                            .   Missing                                                                                                128          .    
+                            1   Yes                                                                                                    168        12.0%  
+                            2   No                                                                                                   1,138        88.0%  
+                                                                                                                                                         
+      Q48         CR48      During this school year, were you taught in any of your classes about the dangers of smoking?                                
+                            .   Missing                                                                                                 65          .    
+                            1   Yes                                                                                                    722        49.7%  
+                            2   No                                                                                                     389        29.6%  
+                            3   Not Sure                                                                                               258        20.8%  
+                                                                                                                                                         
+      Q49         CR49      During this school year, did you discuss in any of your classes the reasons why people your age                              
+                            smoke?                                                                                                                       
+                            .   Missing                                                                                                 48          .    
+                            1   Yes                                                                                                    550        37.4%  
+                            2   No                                                                                                     600        44.6%  
+                            3   Not Sure                                                                                               236        18.0%  
+                                                                                                                                                         
+      Q50         CR50      During this school year, were you taught in any of your classes about the effects of smoking, like                           
+                            it makes your teeth yellow, causes wrinkles, or makes you smell bad?                                                         
+                            .   Missing                                                                                                 56          .    
+                            1   Yes                                                                                                    714        48.5%  
+                            2   No                                                                                                     476        36.4%  
+                            3   Not Sure                                                                                               188        15.1%  
+                                                                                                                                                         
+      Q51         CR51      How long ago did you last discuss smoking and health as part of a lesson?                                                    
+                            .   Missing                                                                                                 56          .    
+                            1   Never                                                                                                  521        37.9%  
+                            2   This term                                                                                              229        16.5%  
+                            3   Last Term                                                                                              161        11.1%  
+                            4   2 terms ago                                                                                             95         6.7%  
+                            5   3 terms ago                                                                                            179        11.6%  
+                            6   More than a year ago                                                                                   193        16.2%  
+                                                                                                                                                         
+      Q52         CR52      How old are you?                                                                                                             
+                            .   Missing                                                                                                 17          .    
+                                                               GYTSEMRO2007 Qatar All Schools                                                               8
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                            1   11 years old or younger                                                                                137         8.9%  
+                            2   12 years old                                                                                           202        12.0%  
+                            3   13 years old                                                                                           382        25.3%  
+                            4   14 years old                                                                                           329        24.9%  
+                            5   15 years old                                                                                           232        18.6%  
+                            6   16 years old                                                                                            95         7.4%  
+                            7   17 years old or older                                                                                   40         2.8%  
+                                                                                                                                                         
+      Q53        CR53       What is your sex?                                                                                                            
+                            .   Missing                                                                                                111          .    
+                            1   Male                                                                                                   584        36.9%  
+                            2   Female                                                                                                 739        63.1%  
+                                                                                                                                                         
+      Q54        QAR54      In what grade/form are you?                                                                                                  
+                            .   Missing                                                                                                 85          .    
+                            1   7th                                                                                                    566        31.6%  
+                            2   8th                                                                                                    387        32.8%  
+                            3   9th                                                                                                    396        35.5%  
+                                                                                                                                                         
+      Q55        QAR55      Have you ever tried or experimented with shisha smoking even once?                                                           
+                            .   Missing                                                                                                 93          .    
+                            1   Yes                                                                                                    419        30.1%  
+                            2   No                                                                                                     922        69.9%  
+                                                                                                                                                         
+      Q56        QAR56      How old were you when you first tried shisha?                                                                                
+                            .   Missing                                                                                                 12          .    
+                            1   I have never smoked shisha                                                                           1,067        74.9%  
+                            2   7 years old or younger                                                                                 123         8.4%  
+                            3   8 or 9 years old                                                                                        63         4.8%  
+                            4   10 or 11 years old                                                                                      45         3.0%  
+                            5   12 or 13 years old                                                                                      53         3.7%  
+                            6   14 or 15 years old                                                                                      61         4.5%  
+                            7   16 years old or older                                                                                   10         0.7%  
+                                                                                                                                                         
+      Q57        QAR57      During the past 30 days (one month) how often did you smoke shisha?                                                          
+                            .   Missing                                                                                                 41          .    
+                            1   0 days                                                                                               1,178        84.5%  
+                            2   1 or 2 days                                                                                            111         7.7%  
+                            3   3 to 5 days                                                                                             49         3.8%  
+                            4   6 to 9 days                                                                                             28         1.9%  
+                            5   10 to 19 days                                                                                           12         0.9%  
+                            6   20 to 29 days                                                                                            6         0.4%  
+                            7   All 30 days                                                                                              9         0.7%  
+                                                                                                                                                         
+      Q58        QAR58      During the past 30 days (one month), on the days you smoked hwo many shishas did you usually smoke?                          
+                            .   Missing                                                                                                 18          .    
+                            1   I did not smoke shisha during the past 30 days (one month)                                           1,213        85.3%  
+                            2   Less than 1 shisha per day                                                                             116         8.4%  
+                            3   1 shisha per day                                                                                        52         3.8%  
+                            4   2 to 5 shishas per day                                                                                  18         1.4%  
+                            5   More than then above                                                                                    17         1.2%  
+                                                                                                                                                         
+      Q59        QAR59      Where do you usually smoke shisha?                                                                                           
+                            .   Missing                                                                                                 22          .    
+                            1   I have never smoked shisha                                                                           1,152        81.8%  
+                                                               GYTSEMRO2007 Qatar All Schools                                                               9
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                            2   At home                                                                                                112         8.1%  
+                            3   At coffee shop                                                                                          74         5.3%  
+                            4   At the club                                                                                             25         1.8%  
+                            5   Other                                                                                                   49         3.1%  
+                                                                                                                                                         
+      Q60        QAR60      During the past 30 days (one month), did anyone ever refuse to serve you shisha because of your                              
+                            age?                                                                                                                         
+                            .   Missing                                                                                                 77          .    
+                            1   I did not try to buy shisha during the past 30 days (one month)                                      1,154        85.1%  
+                            2   Yes, someone refused to sell me shisha because of my age                                               110         8.0%  
+                            3   No, my age did not keep me from buying shisha                                                           93         6.9%  
+                                                                                                                                                         
+      Q61        QAR61      Do you ever have shisha or feel like having shisha first thing in the morning?                                               
+                            .   Missing                                                                                                 16          .    
+                            1   I have never smoked shisha                                                                           1,180        83.5%  
+                            2   I no longer smoke shisha                                                                               160        10.8%  
+                            3   No, I don't have or feel like having a shisha first thing in the morning                                50         3.7%  
+                            4   Yes, I sometimes have or feel like having shisha first thing in the morning                             24         1.6%  
+                            5   Yes, I always have or feel like having shisha first thing in the morning                                 4         0.3%  
+                                                                                                                                                         
+      Q62        QAR62      Do your parents smoke shisha?                                                                                                
+                            .   Missing                                                                                                 18          .    
+                            1   None                                                                                                 1,097        77.6%  
+                            2   Both                                                                                                   116         8.2%  
+                            3   Father only                                                                                            145        10.1%  
+                            4   Mother only                                                                                             36         2.6%  
+                            5   I don't know                                                                                            22         1.6%  
+                                                                                                                                                         
+      Q63        QAR63      Do you think that smoking shisha harms your health?                                                                          
+                            .   Missing                                                                                                 38          .    
+                            1   Definitely not                                                                                         358        24.2%  
+                            2   Probably not                                                                                           119         8.4%  
+                            3   Probably yes                                                                                           117         8.9%  
+                            4   Definitely yes                                                                                         802        58.5%  
+                                                                                                                                                         
+      Q64        QAR64      Have you ever tried SWAIKA even once?                                                                                        
+                            .   Missing                                                                                                100          .    
+                            1   Yes                                                                                                    288        20.9%  
+                            2   No                                                                                                   1,046        79.1%  
+                                                                                                                                                         
+      Q65        QAR65      How old were you when you first tried Swaika?                                                                                
+                            .   Missing                                                                                                 12          .    
+                            1   I have never tried swaika                                                                            1,214        85.5%  
+                            2   7 years old or younger                                                                                  96         7.0%  
+                            3   8 or 9 years old                                                                                        26         1.9%  
+                            4   10 or 11 years old                                                                                      23         1.6%  
+                            5   12 or 13 years old                                                                                      28         1.7%  
+                            6   14 or 15 years old                                                                                      25         1.7%  
+                            7   16 years old or older                                                                                   10         0.6%  
+                                                                                                                                                         
+      Q66        QAR66      During the past 30 days, how often did you try Swaika?                                                                       
+                            .   Missing                                                                                                 16          .    
+                            1   0 days                                                                                               1,251        88.7%  
+                            2   1 or 2 days                                                                                             73         4.7%  
+                            3   3 to 5 days                                                                                             38         2.6%  
+                                                               GYTSEMRO2007 Qatar All Schools                                                              10
+                                                             Region 1 (National) -- Web Codebook
+
+    Original    Analysis                                                                                                           Unweighted    Weighted
+    Question    Variable    Question Code and Label                                                                                Frequency     Percent
+
+                            4   6 to 9 days                                                                                             19         1.3%  
+                            5   10 to 19 days                                                                                           11         0.8%  
+                            6   20 to 29 days                                                                                            8         0.6%  
+                            7   All 30 days                                                                                             18         1.3%  
+                                                                                                                                                         
+      Q67        QAR67      Do you use swaika now?                                                                                                       
+                            .   Missing                                                                                                 23          .    
+                            1   No, I have never used swaika                                                                         1,281        90.9%  
+                            2   Yes, on a daily basis                                                                                   66         4.5%  
+                            3   Yes, but not everyday                                                                                   34         2.4%  
+                            4   No, I used to use it but I have stopped using it                                                        30         2.1%  
+                                                                                                                                                         
+      Q68        QAR68      Where do you usually use Swaika?                                                                                             
+                            .   Missing                                                                                                 22          .    
+                            1   I don't use it                                                                                       1,218        86.4%  
+                            2   At home                                                                                                 94         6.5%  
+                            3   At school                                                                                               38         2.8%  
+                            4   At a friend's house                                                                                     14         1.1%  
+                            5   On occasions                                                                                             7         0.5%  
+                            6   In public places                                                                                        18         1.3%  
+                            7   Other                                                                                                   23         1.4%  
+                                                                                                                                                         
+      Q69        QAR69      During the past 30 days, how many days did you use swaika?                                                                   
+                            .   Missing                                                                                                 56          .    
+                            1   I have never used it                                                                                 1,213        88.4%  
+                            2   I usually use it but I didn't in the past 30 days                                                       65         4.6%  
+                            3   1-2 days                                                                                                42         3.0%  
+                            4   3-5 days                                                                                                15         1.0%  
+                            5   6-9 days                                                                                                16         1.2%  
+                            6   10-19 days                                                                                               4         0.3%  
+                            7   20-29 days                                                                                               5         0.3%  
+                            8   30 days                                                                                                 18         1.3%  
+                                                                                                                                                         
+      Q70        QAR70      Do you think that Swaika is harmful?                                                                                         
+                            .   Missing                                                                                                 32          .    
+                            1   Certainly not                                                                                          364        25.2%  
+                            2   Sometimes not                                                                                           72         4.9%  
+                            3   Not certain                                                                                             81         6.0%  
+                            4   Perhaps yes                                                                                             85         6.1%  
+                            5   Certainly yes                                                                                          800        57.8%  
+                                                                                                                                                         
+      Q71        QAR71      In which part of the mouth Swaika is usually put?                                                                            
+                            .   Missing                                                                                                 43          .    
+                            1   I've never used Swaika                                                                               1,163        83.6%  
+                            2   Between the cheek and gums                                                                             106         7.7%  
+                            3   Between the lower lip and teeth                                                                         96         6.9%  
+                            4   Other                                                                                                   26         1.9%  
+                                                                                                                                                         
