@@ -20,7 +20,8 @@ all_data_common <- lapply(all_data, function(df) {
   df |> select(all_of(common_vars))
 })
 
-
+cr_vars <- c("CR1","CR2","CR14","CR16","CR31","CR32","CR33",
+             "CR34","CR35","CR41","CR42")
 
 
 
